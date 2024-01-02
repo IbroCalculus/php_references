@@ -1,11 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just a Testing Arena</title>
+</head>
+<body>
+
 <?php
+$numbers = [];
 
-    function sayHello($fName, $sName) {
-        return "Good day $fName $sName <br/>";
-    }
-
-    $result = SayHello("John", "Doe");
-    echo $result;
-    
-     
 ?>
+
+</body>
+</html>

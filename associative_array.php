@@ -8,6 +8,16 @@
         "India" => "New Delhi"
     );
 
+    // OR
+    
+    $capitals2 = [
+        "Nigeria" => "Abuja",
+        "Kenya" => "Naira",
+        "Japan" => "Tokyo"
+    ];
+
+    echo "The capital of Nigeria is {$capitals2["Nigeria"]}";
+
     // Count the number of key-values pairs (ie 4)
     $count = count($capitals);
     echo "{$count} <hr>";
